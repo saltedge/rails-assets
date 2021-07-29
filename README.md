@@ -47,10 +47,3 @@ instead of
 //= require typeahead.js
 ```
 
-## Credits
-
-Maintained by Tenex Developers [@tenex](http://github.com/tenex).
-
-Originally created by [@teamon](http://github.com/teamon), [@porada](http://github.com/porada) and [@sheerun](http://github.com/sheerun), with the help of [contributors](https://github.com/tenex/rails-assets/graphs/contributors). :heart:
-
-Please don’t tweet bugs to us—[report an issue](https://github.com/tenex/rails-assets/issues) instead. :v:
